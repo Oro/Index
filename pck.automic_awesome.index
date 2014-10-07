@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.AUTOMIC_AWESOME",
+  "description" : "we have an awesome export responsibilities action",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "https://github.com/Oro/PCK.AUTOMIC_AWESOME.git",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "0cba2a0a886aa93fd1c179caed2db4511c512f6b",
+    "dependencies" : {
+      "PCK.AUTOMIC_SIEBEL" : "~>0.7.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "MIT",
+  "categories" : "Siebel, Responsibilties",
+  "title" : "My Awesome Package"
+}
